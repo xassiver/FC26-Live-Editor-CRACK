@@ -13,6 +13,8 @@ Since recent versions of the FC26 Live Editor do not natively support cracked ga
 * **Customizable Delay:** Features a built-in waiting period (Default: 100ms) before injection to prevent crashes and ensure the game has fully initialized.
 * **Lightweight & Fast:** Minimalistic console/GUI footprint with no performance impact on your gameplay.
 
+# Compatible with FIFA Mod Manager (FMM): You can choose this application instead of Live Editor Launcher.
+
 ---
 
 ## How It Works
